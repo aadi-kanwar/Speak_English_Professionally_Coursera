@@ -1,0 +1,16 @@
+Record an audio of the following statements and upload the same for every question
+
+Question 1 (Give an Introduction)
+    Hello, Yes indeed. How can I help you today?
+
+Question 2 (Request information about your order #4014)
+    I would like some information about my order 4-0-1-4
+
+Question 3 (Ask for clarification)
+    Sorry, but could you please repeat your order number.
+
+Question 4 (Respond with "can't")
+    I believe that can't be possible.
+
+Question 5 (Close the conversation)
+    Sure. It was nice talking to you. Have a great day.
